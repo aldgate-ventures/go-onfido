@@ -1,4 +1,4 @@
-module github.com/uw-labs/go-onfido
+module github.com/aldgate-ventures/go-onfido
 
 go 1.12
 
