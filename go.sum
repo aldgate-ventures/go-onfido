@@ -9,3 +9,5 @@ github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80 h1:nrZ3ySNYwJbSpD6ce9duiP+QkD3JuLCcWkdaehUS/3Y=
 github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80/go.mod h1:iFyPdL66DjUD96XmzVL3ZntbzcflLnznH0fr99w5VqE=
+github.com/uw-labs/go-onfido v0.0.0-20190712073730-4553089437d0 h1:PWt1m0Ep3wsTHWE7PokKLg22E0uuf6jTvLW4SWoNt9Y=
+github.com/uw-labs/go-onfido v0.0.0-20190712073730-4553089437d0/go.mod h1:MDhY51mJEmcTXFU3IN2Q5lQ7rBrvt8/ean4y/KLtUUk=
